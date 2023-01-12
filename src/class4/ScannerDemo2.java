@@ -7,7 +7,8 @@ public class ScannerDemo2 {
 
         Scanner input=new Scanner(System.in);
         System.out.println("Please enter your age");
+
         int age=input.nextInt();
-        System.out.println("You rae "+age+" years old");
+        System.out.println("You are "+age+" years old");
     }
 }
