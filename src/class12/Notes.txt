@@ -1,0 +1,15 @@
+OOP - object oriented programing:
+      It is just a way of writing code that follows certain rules or guidelines.
+      We create classes that have attributes/properties/fields and methods/function/behaviourism.
+Why we should learn OOP?
+      1) It simplifies the software development and maintenance( adding new features changing the existing code ).
+      2) Code duplication is reduced.
+      3) It also helps us represent something from real life with the help of classes and objects.
+Class:
+      is a blueprint or a design from which actual real life objects are created. Computer uses a class to check what that class can do
+      Scanner scan=new Scanner(System.in); Here Scanner is a class. scan is an object of scanner class. With the help of object
+      we can use method from class we can also use properties from that class.
+  Object:
+        Objects are created from classes and we can use them to call methods and prorties from those classes.
+   NOte:
+       Inside the sequence does not matter you can call
