@@ -10,6 +10,7 @@ public class Task3 {
         System.out.println(st.reverse());
         String str=st.toString();//converting a StringBuilder to String so that we can call methods from String
         str.split*/
+
         String str="This is sentence i want to reverse";
         String [] arr=str.split(" ");
 
@@ -19,6 +20,18 @@ public class Task3 {
           }
           System.out.print(" ");
       }
+        for(String word:arr){
+            StringBuilder st=new StringBuilder(word);
+            st.reverse();
+            System.out.print(st);
+            System.out.print(" ");
+        }
+
+
+
+        for(String word:arr){
+            System.out.println(new StringBuilder(word).reverse()+" ");
+        }
 
 
     }
