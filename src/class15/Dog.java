@@ -13,7 +13,7 @@ void printFood(){
     System.out.println(food);
 }
 void printColor(){
-    System.out.println(food);
+   // System.out.println(food);
 }
 
 }
