@@ -2,3 +2,11 @@ Access Modifiers:
       These modifiers control accessibility of instance or static fields,
       methods and classes. There are four access levels and there are three access modifier keywords.
       1) private 2)default 3)protected 4) public
+ Constructors:
+     Constructors in Java help us create objects easy or initialize the instance fields
+     of a class in a better way.
+ Rules:
+     1) They are similar to methods, but they do not have return types.
+     2) They have same name as class name.
+     3) We can use all the access modifiers with the constructors.
+     4) Static keyword is not allowed with constructors.
