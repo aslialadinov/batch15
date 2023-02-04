@@ -36,7 +36,7 @@ Downside:
     If we write private keyword with a variable or a method or a class we can access that variable or method or class
     within the same class.
  Default:
-    default is not a keyword. When we dont write any access modifiers with variables or methods or classes
+    default is not a keyword. When we don't write any access modifiers with variables or methods or classes
     default access is applies automaticly by java, which means these variables methods or classes
     can be accessed inside any other class which is present inside the same package.
   PPublic:

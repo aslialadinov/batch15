@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SwitchCaseDemo5 {
     public static void main(String[] args) {
 
-Scanner scanner=new Scanner(System.in);
+        Scanner scanner=new Scanner(System.in);
         System.out.println("Please enter your gender m f");
         char gender=scanner.next().charAt(0);
 

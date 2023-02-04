@@ -11,15 +11,16 @@ public class IfDemo1 {
         if(money>2000){
             System.out.println("Lets also buy a Macbook");
         }
+
         boolean motherDay=true;
 
         if(motherDay){
             System.out.println("Happy mothers day");
         }
 
-        String name="Asli";
 
-//equals method is only for non primitives
+        String name="Asli";
+        //equals method is only for non primitives
         if(name.equals("Asli")){
             System.out.println("I love football");
         }

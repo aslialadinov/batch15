@@ -33,7 +33,7 @@ public class Task3 {
         ssn = ssn2;
         state = state2;
         phoneNumber = number;
-        name=name2; 
+        name=name2;
     }
 
     public void printInfo(){

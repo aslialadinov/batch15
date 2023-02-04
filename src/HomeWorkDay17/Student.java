@@ -10,6 +10,7 @@ public class Student {
      String name;
      String address;
 
+
      Student(String name1, String address1){
          name=name1;
          address=address1;

@@ -23,7 +23,7 @@ public class Students {
         average=(sArt+sMath+sMusic)/3;
     }
     void printInfo(){
-        System.out.println("Student name "+name+" an average grade is "+average);
+        System.out.println("Student name "+name+" an average grade is "+String.format("%.1f",average));
     }
 
 }

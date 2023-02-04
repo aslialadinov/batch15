@@ -16,7 +16,6 @@ public class Dog {
 
         System.out.println("Name: "+name+" Breed: "+breed+" age: "+age+" Weight: "+weight);
     }
-
     public static void main(String[] args) {
 
         Dog dog1=new Dog("Poppy","Husky",4,42.2);

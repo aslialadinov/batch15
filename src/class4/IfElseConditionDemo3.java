@@ -5,7 +5,6 @@ package class4;
 
         int day=8;
 
-
         if(day==1){
             System.out.println("Monday");
         }else if(day==2) {

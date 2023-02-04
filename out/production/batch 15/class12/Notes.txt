@@ -10,6 +10,6 @@ Class:
       Scanner scan=new Scanner(System.in); Here Scanner is a class. scan is an object of scanner class. With the help of object
       we can use method from class we can also use properties from that class.
   Object:
-        Objects are created from classes and we can use them to call methods and prorties from those classes.
+        Objects are created from classes, and we can use them to call methods and prorties from those classes.
    NOte:
        Inside the sequence does not matter you can call
