@@ -47,5 +47,9 @@ public class Test {
         superSave.takeProfit();
         superSave.superSaving();
 
+        System.out.println("Account number: "+superSave.accountNumber);
+        System.out.println("Money: "+superSave.money);
+        System.out.println("Profit: "+superSave.profit);
+
     }
 }
