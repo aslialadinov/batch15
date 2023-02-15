@@ -26,7 +26,7 @@ class  Dog implements MovAble, OwnAble{
 
     @Override
     public void move() {
-        System.out.println("I can move");
+        System.out.println("I can run fast");
     }
 
     @Override
