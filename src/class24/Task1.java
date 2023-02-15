@@ -21,9 +21,6 @@ Create objects of child classes and store them into array. Loop through each obj
                 apple.installApp();
                 apple.editVideos();
             }
-
-
-
         }
     }
 }

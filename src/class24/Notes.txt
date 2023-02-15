@@ -15,7 +15,6 @@ Final keyword:
     2) when we have created constants then we declare the variables as final.
     3) when we use it with a class no other class can inherit from that class.
 
-Break till 11:55
 Abstraction:
     Abstraction is the process of hiding im-implementation details and showing only the functionality to user.
 Why we should use Abstraction:
