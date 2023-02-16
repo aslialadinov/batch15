@@ -6,6 +6,7 @@ public class MovAbleTester {
 
         for(MovAble m:washAble){
             m.move();
+
         }
     }
 
