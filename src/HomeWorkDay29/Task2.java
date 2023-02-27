@@ -15,8 +15,12 @@ public class Task2 {
         studentType.put("Zamira",555412);
         studentType.put("Olga",124578);
         studentType.put("Steven",123324);
+
         System.out.println(studentType);
-        System.out.println(studentType.keySet());
+       // System.out.println(studentType.keySet());
+        for (String s : studentType.keySet()) {
+            System.out.print(s+" ");
+        }
 
     }
 }

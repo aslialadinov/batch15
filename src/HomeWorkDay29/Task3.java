@@ -14,6 +14,7 @@ public class Task3 {
         countries.add("Portugal");
         countries.add("Morocco");
         System.out.println(countries);
+
         for(String x:countries){
             System.out.println(x+" ");
         }
