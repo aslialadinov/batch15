@@ -1,0 +1,6 @@
+String class:
+    String is the most widely used class in Java. It can store sequence of characters . We should be using
+    this class when we want to save memory, and we are not planing to make a lot of modifications
+    to the String values.
+StringBuilder Class:
+    StringBuilder is exactly same as String class, but it is changeble (mutable).

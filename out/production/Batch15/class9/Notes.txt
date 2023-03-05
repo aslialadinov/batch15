@@ -1,0 +1,8 @@
+Nested For Loops:
+
+   A for loops inside another for loop:
+Important ones:
+   1) Read the questions carefully understanding question is 50 % problem solved.
+   2) Always break down your problem in to smaller steps ALWAYS.
+   3) Focus on those smaller parts test them well if they are working as their expectations
+   once tested move to second part.

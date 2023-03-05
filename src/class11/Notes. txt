@@ -1,0 +1,17 @@
+2D Arrays:
+ Are arrays that contain 1D arrays.
+Why we should learn about 2D Arrays.
+   Because they allow us to store multiple 1D arrays which give us more flexibility more data.
+   for example if we have to store data from excel files we can use 2D arrays.
+ Syntax to create 2D Arrays:
+ First Way:
+    DataType[] nameofArray=new DataType[Sizeof Rows][];
+ Second Way
+    DataType[][] nameofArray={{data,data},{data,data}}
+
+OOP is nothing but some set of rules that that if we follow we achieve below.
+   1) Representing real life entities becomes easier.
+   2) Changing existing code and adding new features  becomes easier.
+   3) Code repetition is minimized
+   4) Helps us write secure code.
+   5)
