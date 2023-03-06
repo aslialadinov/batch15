@@ -7,7 +7,7 @@ import java.util.Properties;
 public class ConfigFileWriteDemo1 {
     public static void main(String[] args) throws IOException {
         //Path where we want to create the new file the nameof the file with its extension
-        String path="Files/test.properties";
+        String path="Files/config.properties";
 
         // We use FileOutputStream when we have to write the data to a file
         FileOutputStream fileOutputStream=new FileOutputStream(path);
