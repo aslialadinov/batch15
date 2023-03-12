@@ -9,6 +9,7 @@ public class ExceptionDemo1 {
         System.out.println("line4");
         System.out.println("line5");
         System.out.println("line6");
+
         try {
             System.out.println(10 / 0);
         }catch(Exception e){
